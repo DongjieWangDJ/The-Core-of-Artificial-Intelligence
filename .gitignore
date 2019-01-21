@@ -29,3 +29,10 @@ hs_err_pid*
 
 # output file
 target
+
+# idea settings
+.idea
+*iml
+
+# vscode settings
+.vscode

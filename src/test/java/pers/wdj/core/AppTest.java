@@ -1,4 +1,4 @@
-package pers.wdj.ai-core;
+package pers.wdj.core;
 
 import static org.junit.Assert.assertTrue;
 
