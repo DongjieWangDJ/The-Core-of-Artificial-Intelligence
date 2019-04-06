@@ -1,5 +1,12 @@
-# The-Core-of-Artificial-Intelligence
+# The-Core-Of-Artificial-Intelligence
 
-The project aims to create a new Artificial Intelligence that could learn itself. 
+## 伪智能的兴起
+    近年来，机器学习发展迅猛，衍生出来的图像识别、自然语言处理、大数据处理等等领域，目前都归入了 AI 的目录下。这些技术的发展，大多依仗的是计算能力的大幅度提升，但是这些真的能说是人工智能吗，我觉得不是。
 
-First, it needs to have the ability to communicate with people.
+    真正的只能应该能在人类编程之后能够自我思考，自我学习，而不是只能做程序已经写死的命令。目前的机器学习手段，说到底还只是通过数据
+处理得出一些普遍性的规律，在自我决策方面有着绝对的问题。
+
+## 真正的 AI 应该能实现自我思考，自我学习
+    建立这个项目，就是想打造一个能够自我决策的人工智能核心。
+
+## 实现策略  TBD
